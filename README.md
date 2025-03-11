@@ -53,3 +53,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align ="center" height ="50" width ="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align ="center" height ="50" width ="60"/>
 </div>
+
+![snake gif](https://github.com/VinihAugs/VinihAugs/blob/output/github-contribution-grid-snake.svg)
