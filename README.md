@@ -10,7 +10,9 @@
 - **SQL, Cypress e Selenium** para automação de testes  
 
 📫 Vamos conversar? Me encontre no **[LinkedIn](https://www.linkedin.com/in/viniciusaugusto3006/)**!  
----
+
+----
+
 <div>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=dark">
 
@@ -20,7 +22,9 @@
 
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=cobalt">
 </div>
----
+
+----
+
 ## Contato
 <div>
     <a href="https://www.linkedin.com/in/viniciusaugusto3006/">
@@ -30,7 +34,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align ="center" height ="50" width ="60"/>
     </a>
 </div>
----
+
+----
+
 ## Linguagem
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align ="center" height ="50" width ="60"/>
@@ -48,6 +54,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align ="center" height ="50" width ="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align ="center" height ="50" width ="60"/>
 </div>
+
+----
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
