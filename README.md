@@ -14,20 +14,20 @@
 ----
 
 <div>
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=dark">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=onedark">
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=cobalt">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=merko">
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula">
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=cobalt">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=highcontrast">
 </div>
 
 
 ----
 
 ## Contato
-<div>
+<div >
     <a href="https://www.linkedin.com/in/viniciusaugusto3006/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align ="center" height ="50" width ="60"/>
     </a>
