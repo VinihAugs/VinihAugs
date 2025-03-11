@@ -13,8 +13,6 @@
 
 ---
 <div>
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&show_icons=true&theme=tokyonight">
-
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=dark">
 
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=cobalt">
