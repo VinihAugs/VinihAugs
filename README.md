@@ -23,6 +23,7 @@
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=cobalt">
 </div>
 
+
 ----
 
 ## Contato
@@ -31,7 +32,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align ="center" height ="50" width ="60"/>
     </a>
     <a href="https://github.com/VinihAugs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align ="center" height ="50" width ="60"/>
+        <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" align ="center" height ="75" width ="80" />
+    </a>
+    <a href="https://www.instagram.com/viniciusaugst_/">
+        <img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" align ="center" height ="60" width ="60" />
+    </a>
+    <a href="https://projeto-profissional.vercel.app">
+        <img src="https://img.icons8.com/?size=100&id=48179&format=png&color=000000" align ="center" height ="50" width ="60"/> Pagina Pessoal
     </a>
 </div>
 
