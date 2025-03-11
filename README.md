@@ -22,6 +22,8 @@
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=cobalt">
 </div>
 
+![snake gif](https://github.com/VinihAugs/VinihAugs/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Contato
@@ -54,5 +56,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align ="center" height ="50" width ="60"/>
 </div>
 
-
-![snake gif](https://github.com/VinihAugs/VinihAugs/blob/output/github-contribution-grid-snake.svg)
