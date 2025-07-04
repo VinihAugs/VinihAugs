@@ -13,7 +13,7 @@
 
 ----
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: center;">
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=onedark">
 
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=merko">
