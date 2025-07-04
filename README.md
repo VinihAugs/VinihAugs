@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou o Vinicius Augusto  
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🎓 **Tecnologo em Análise e Desenvolvimento de Sistemas**  
 💻 Experiência como **Desenvolvedor Front-end e Back-end**, além de atuação como **QA & Tester**  
 🗄️ Conhecimento em **bancos de dados, frameworks** e **metodologias ágeis**  
 
 🚀 Atualmente estudando para ampliar conhecimento:  
 - **React Native** e **JavaScript** para desenvolvimento  
-- **Teste de Software, QA** e **Testes Manuais e Automatizados**  
+- **Testes Manuais, Unitarios e Automatizados**  
 - **SQL, Cypress e Selenium** para automação de testes  
 
 📫 Vamos conversar? Me encontre no **[LinkedIn](https://www.linkedin.com/in/viniciusaugusto3006/)**!  
