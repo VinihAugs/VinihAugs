@@ -1,135 +1,106 @@
-# 👋 Olá! Eu sou o Vinicius Augusto  
+<h1 align="center">👋 Vinicius Augusto</h1>
 
-🎓 **Tecnologo em Análise e Desenvolvimento de Sistemas**  
-💻 Experiência como **Desenvolvedor Front-end e Back-end**, além de atuação como **QA & Tester**  
-🗄️ Conhecimento em **bancos de dados, frameworks** e **metodologias ágeis**  
+<h3 align="center">
+Front-End Developer • React • TypeScript • High Performance UI
+</h3>
 
-🚀 Atualmente estudando para ampliar conhecimento:  
-- **React Native** e **JavaScript** para desenvolvimento  
-- **Testes Manuais, Unitarios e Automatizados**  
-- **SQL, Cypress e Selenium** para automação de testes  
+<p align="center">
+🎓 Análise e Desenvolvimento de Sistemas <br/>
+💻 +4 anos criando interfaces escaláveis e performáticas <br/>
+🚀 Clean Code • Design Patterns • UX-driven Development
+</p>
 
-📫 Vamos conversar? Me encontre no **[LinkedIn](https://www.linkedin.com/in/viniciusaugusto3006/)**!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusaugusto3006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VinihAugs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://projeto-profissional.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
-----
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+## 🧠 Sobre Mim
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&langs_count=8&theme=dracula)
+Sou **Desenvolvedor Front-End** com foco em **React, Next.js e TypeScript**, atuando há mais de **4 anos** na construção de produtos digitais **robustos, escaláveis e orientados a experiência do usuário**.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinihAugs&theme=dracula)
+Já atuei em **ambientes críticos e de alta escala**, sempre com mentalidade de produto, código limpo e visão arquitetural.
 
-----
+**Resumo rápido:**
+- Interfaces performáticas e bem estruturadas  
+- Arquitetura front-end sólida  
+- Forte cultura de testes  
+- Comunicação clara com produto, design e backend  
 
-## Contato
-<div >
-    <a href="https://www.linkedin.com/in/viniciusaugusto3006/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align ="center" height ="50" width ="60"/>
-    </a>
-    <a href="https://github.com/VinihAugs">
-        <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" align ="center" height ="75" width ="80" />
-    </a>
-    <a href="https://www.instagram.com/viniciusaugst_/">
-        <img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" align ="center" height ="60" width ="60" />
-    </a>
-    <a href="https://projeto-profissional.vercel.app">
-        <img src="https://img.icons8.com/?size=100&id=48179&format=png&color=000000" align ="center" height ="50" width ="60"/> Pagina Pessoal
-    </a>
-</div>
+---
 
-----
+## 🛠️ Tech Stack
 
-## Linguagem
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align ="center" height ="50" width ="60"/>
-</div>
+### 🎯 Front-End (Core)
+React • Next.js • TypeScript • JavaScript  
+Redux • Context API • Hooks  
 
-----
+### 🎨 UI & Styling
+Tailwind CSS • Styled Components • Material UI  
+SASS • HTML5 • CSS3  
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+### 📱 Mobile
+React Native • NativeWind  
 
+### 🔌 Backend & APIs
+Node.js • GraphQL • REST APIs  
 
-# 👋 Olá! Eu sou o Vinicius Augusto  
+### 🧪 Qualidade & Testes
+Jest • TDD • Storybook • Testes Unitários  
 
-🎓 **Tecnologo em Análise e Desenvolvimento de Sistemas**  
-💻 Experiência como **Desenvolvedor Front-end e Back-end**, além de atuação como **QA & Tester**  
-🗄️ Conhecimento em **bancos de dados, frameworks** e **metodologias ágeis**  
+### 🗄️ Banco de Dados
+MongoDB • MySQL  
 
-🚀 Atualmente estudando para ampliar conhecimento:  
-- **React Native** e **JavaScript** para desenvolvimento  
-- **Testes Manuais, Unitarios e Automatizados**  
-- **SQL, Cypress e Selenium** para automação de testes  
+### ⚙️ Ferramentas
+Git • GitHub • Postman • Figma • Jira  
 
-📫 Vamos conversar? Me encontre no **[LinkedIn](https://www.linkedin.com/in/viniciusaugusto3006/)**!  
+---
 
-----
+## 💼 Experiência Profissional
 
-<div style="display: grid; place-items: center;">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=onedark">
+### Front-End Developer | Consultoria VPA
+📍 Atuação multi-setorial
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=merko">
+- Liderança técnica e apoio arquitetural  
+- Desenvolvimento de aplicações em **Financeiro, Saúde, E-commerce e Entretenimento**
+- Implementação de **boas práticas, testes automatizados e padrões de arquitetura**
+- Mentoria de desenvolvedores
+- Stack: **React, Next.js, Angular, React Native, Vue**
+- Automações internas com **Java**
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula">
+---
 
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=highcontrast">
-</div>
+## 🧩 Certificações
+- Scrum Fundamentals  
+- PMBOK  
+- IA for Devs  
 
+---
 
-----
+## 🧪 Linguagens & Tecnologias
 
-## Contato
-<div >
-    <a href="https://www.linkedin.com/in/viniciusaugusto3006/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align ="center" height ="50" width ="60"/>
-    </a>
-    <a href="https://github.com/VinihAugs">
-        <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" align ="center" height ="75" width ="80" />
-    </a>
-    <a href="https://www.instagram.com/viniciusaugst_/">
-        <img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" align ="center" height ="60" width ="60" />
-    </a>
-    <a href="https://projeto-profissional.vercel.app">
-        <img src="https://img.icons8.com/?size=100&id=48179&format=png&color=000000" align ="center" height ="50" width ="60"/> Pagina Pessoal
-    </a>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
+</p>
 
-----
+---
 
-## Linguagem
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" align ="center" height ="50" width ="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align ="center" height ="50" width ="60"/>
-</div>
-
-----
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;Vamos+construir+algo+grande.;"/>
+</h3>
