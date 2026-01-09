@@ -13,16 +13,13 @@
 
 ----
 
-<div style="display: grid; place-items: center;">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&hide=contribs,prs&show_icons=true&theme=onedark">
-
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=merko">
-
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula">
-
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&show_icons=true&theme=highcontrast">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&langs_count=10&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinihAugs&theme=dracula" alt="GitHub Streak"/>
 </div>
-
 
 ----
 
