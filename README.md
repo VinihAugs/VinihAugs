@@ -13,13 +13,11 @@
 
 ----
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&langs_count=10&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinihAugs&theme=dracula" alt="GitHub Streak"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinihAugs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinihAugs&layout=compact&langs_count=8&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinihAugs&theme=dracula)
 
 ----
 
