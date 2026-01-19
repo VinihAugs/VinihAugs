@@ -23,6 +23,8 @@ Front-End Developer • React • TypeScript • High Performance UI
 </p>
 
 ---
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihaugs&show_icons=true&theme=radical)
+---
 
 ## 🧠 Sobre Mim
 
